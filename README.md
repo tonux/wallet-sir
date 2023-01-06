@@ -17,6 +17,8 @@ Nb: vous pouvez utiliser votre environnement local.
 
 - Compléter l'automatisation de scénarios avec Cucumber/Gherkin en ajoutant le code Java. ( voir scénario ci dessous)
 
+- Ajouter la documentation avec Swagger
+
 - Testez l'application dans l'environnement de test en utilisant des tests automatisés et des tests manuels. Si l'application passe les tests, utilisez Jenkins et Kubernetes pour déployer automatiquement l'application dans un environnement de production.
 
 - Générez un rapport décrivant les différentes étapes du projet, y compris les analyses de code et les tests effectués, ainsi que les résultats obtenus. Le rapport devrait également inclure des informations sur les améliorations apportées à l'application et sur les problèmes rencontrés et comment ils ont été résolus.
