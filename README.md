@@ -90,6 +90,8 @@ Scenario: Withdraw funds
 - Lien github du projet
 - Lien docker hub pour voir l’image envoyée
 
+mail: sambndongo@gmail.com
+
 ## Spécificité sur le projet
 Le travail sera effectué sous forme de groupe de 3 étudiants.
 
